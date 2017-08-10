@@ -5,11 +5,11 @@ one:
   workout: MyString
   mood: MyString
   length: MyString
-  type: 
+  style: MyString
 
 two:
   date: 2017-08-10 02:41:18
   workout: MyString
   mood: MyString
   length: MyString
-  type: 
+  style: MyString 
